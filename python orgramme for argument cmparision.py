@@ -1,0 +1,8 @@
+a = int(input("Enter the first value: "))
+b = int(input("Enter the second value: "))
+print("Is {} greater than {} =".format(a,b),a>b)
+print("Is {} lesser than {} =".format(a,b),a<b)
+print("Is {} equal to {} =".format(a,b),a==b)
+print("Is {} not equal to {} =".format(a,b),a!=b)
+print("Is {} greater than or equal to {} =".format(a,b),a>=b)
+print("Is {} lesser than or equal to {} =".format(a,b),a<=b)
